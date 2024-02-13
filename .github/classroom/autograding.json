@@ -1,0 +1,414 @@
+{
+  "tests": [
+    {
+      "name": "Rational constructorFail",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#constructorFail\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rational constructorSuccess",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#constructorSuccess\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rational constructFail",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#constructFail\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rational constructSuccess",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#constructSuccess\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rational equals",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#equals\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rational toString",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#toString\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rational negate",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#negate\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rational invertFail",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#invertFail\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rational invert",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#invert\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rational addFail",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#addFail\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rational add",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#add\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rational subFail",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#subFail\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rational sub",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#sub\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rational mulFail",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#mulFail\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rational mul",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#mul\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rational divFail",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#divFail\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rational divZeroFail",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#divZeroFail\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Rational div",
+      "setup": "",
+      "run": "mvn test -Dtest=\"RationalProperties#div\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational gcdFailA",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#gcdFailA\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational gcdFailB",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#gcdFailB\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational gcdSuccess",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#gcdSuccess\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational simplifyFail",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#simplifyFail\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational simplifySuccess",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#simplifySuccess\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational constructorFail",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#constructorFail\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational constructorSuccess",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#constructorSuccess\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational constructFail",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#constructFail\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational constructSuccess",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#constructSuccess\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational equals",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#equals\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational toString",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#toString\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational negate",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#negate\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational invertFail",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#invertFail\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational invert",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#invert\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational addFail",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#addFail\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational add",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#add\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational subFail",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#subFail\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational sub",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#sub\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational mulFail",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#mulFail\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational mul",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#mul\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational divFail",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#divFail\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational divZeroFail",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#divZeroFail\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "SimplifiedRational div",
+      "setup": "",
+      "run": "mvn test -Dtest=\"SimplifiedRationalProperties#div\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
